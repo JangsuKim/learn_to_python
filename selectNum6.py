@@ -28,4 +28,4 @@ for idx03 in range(len(lottoNum)):
 msg +="\nGood Luck!!"
 
 print(lottoNum)
-msgBox.showinfo('로또번호생성기',msg)
+msgBox.showinfo('lotto6',msg)
